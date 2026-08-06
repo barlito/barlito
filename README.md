@@ -47,3 +47,4 @@ Games and tools built for my Discord community:
 ---
 
 <sub>Everything above runs self-hosted on Docker Swarm, deployed with GitHub Actions, behind <a href="https://github.com/barlito/traefik-base">traefik-base</a>, watched by <a href="https://github.com/barlito/observability-stack">observability-stack</a>.</sub>
+
