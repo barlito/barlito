@@ -41,6 +41,7 @@ Games and tools built for my Discord community:
 
 - [dog-help-scheduler](https://github.com/barlito/dog-help-scheduler) — randomized "fake walk" ntfy reminders to help a dog with separation anxiety
 - [minecraft-server](https://github.com/barlito/minecraft-server) — containerized game servers (Minecraft, Zomboid, and friends)
+- [pelican-panel](https://github.com/barlito/pelican-panel) — self-hosted Pelican panel to manage all my game servers — live console, config editing, backups, shared access
 - carapp *(private)* — appointment-management PWA for a tattoo studio — Symfony UX, LiveComponents, FullCalendar
 - perler-studio *(private)* — turns pixel-art sprites into perler bead patterns
 
