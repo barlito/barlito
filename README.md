@@ -23,6 +23,16 @@ The reusable base every project of mine starts from:
 | [utils](https://github.com/barlito/utils) | Symfony utility library — Doctrine ID traits, reusable Behat contexts |
 | [traefik-base](https://github.com/barlito/traefik-base) | Traefik 3 edge stack — TLS, security headers, Authelia, WireGuard, HTTP/3 |
 | [observability-stack](https://github.com/barlito/observability-stack) | Metrics, logs and traces — Prometheus, Loki, Tempo, Alloy, Grafana |
+| [ci](https://github.com/barlito/ci) | Reusable GitHub Actions workflows — Docker release, Swarm deploy/rollback, image scan, PHP CI *(in progress)* |
+
+## 🤖 AI agent tooling
+
+MCP servers I build and self-host so AI agents (Claude Code, claude.ai) can work with my projects safely:
+
+| Repo | What it is |
+|---|---|
+| [second-brain-mcp](https://github.com/barlito/second-brain-mcp) | Shared knowledge base for AI agents, backed by a git vault — scoped tokens, per-session access approval from a PWA with push notifications, audit log, human-reviewed proposals |
+| [ops-mcp](https://github.com/barlito/ops-mcp) | Read-only ops server — lets an agent diagnose production without SSH: Swarm state, logs, metrics, traces and deployments across servers *(in progress)* |
 
 ## 🃏 The Youl ecosystem
 
